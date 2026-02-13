@@ -224,7 +224,7 @@ echo $var_name3
 **Створення псевдонімів mycal1, mycal2, mycal3 для автоматичного виведення календаря року народження**
 
 Після виконання завдання було створено псевдоніми для швидкого виклику календаря року народження за допомогою команди alias:
-'''bash
+```bash
 alias mycal1='cal 2008'
 alias mycal2='cal 2006'
 alias mycal3='cal 2001'
@@ -242,8 +242,8 @@ alias mycal3='cal 2001'
 Результат:
 
 При введенні в терміналі:
-'''bash
+```bash
 mycal1
-'''
+```
 
  <img width="820" height="541" alt="image" src="https://github.com/user-attachments/assets/b87203bb-bbe6-499c-a5e2-130fc994fe56" />
