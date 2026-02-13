@@ -273,7 +273,7 @@ students_report() {
 Після створення функції її було викликано командою:
 ```bash
 students_report
-``
+```
 <img width="842" height="605" alt="image" src="https://github.com/user-attachments/assets/af6741b3-8e01-4b72-9c3d-129448949aaa" />
 
 Результат виконання:
