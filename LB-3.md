@@ -214,13 +214,13 @@ echo $var_name2
 echo $var_name3
 ```
 
+<img width="545" height="211" alt="image" src="https://github.com/user-attachments/assets/7d396aa1-4e08-455c-8f87-5e14e3def781" />
+
 **Пояснення:**
 - Команда echo використовується для виведення тексту або значення змінної на екран.
 - Символ $ перед ім’ям змінної дозволяє отримати її значення.
 - У результаті були виведені імена студентів команди, які зберігались у змінних.
-
-<img width="545" height="211" alt="image" src="https://github.com/user-attachments/assets/7d396aa1-4e08-455c-8f87-5e14e3def781" />
-
+  
 **Створення псевдонімів mycal1, mycal2, mycal3 для автоматичного виведення календаря року народження**
 
 
