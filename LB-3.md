@@ -193,5 +193,6 @@
 var_name1="Yaroslava"
 var_name2="Dasha"
 var_name3="Melissa"
+```
 
 <img width="635" height="233" alt="image" src="https://github.com/user-attachments/assets/96ed5122-d640-4c78-8a08-b51f8eca1d61" />
