@@ -251,3 +251,41 @@ mycal3
  <img width="820" height="541" alt="image" src="https://github.com/user-attachments/assets/b87203bb-bbe6-499c-a5e2-130fc994fe56" />
 <img width="829" height="540" alt="image" src="https://github.com/user-attachments/assets/17bd3981-e964-4ec3-bbaf-444df31a4d64" />
 <img width="796" height="532" alt="image" src="https://github.com/user-attachments/assets/66bb46d5-48bd-4a36-8ce4-828cbadb3e04" />
+
+### Робота з функціями (Functions) в терміналі:
+**Створення функції students_report для виведення імен студентів та років народження**
+
+У ході виконання завдання було створено функцію students_report, яка послідовно виводить імена студентів команди та роки їх народження.
+
+```bash
+students_report() {
+ echo "Студенти команди:"
+ echo $var_name1
+ echo $var_name2
+ echo $var_name3
+ echo "Роки народження:"
+ echo $year1
+ echo $year2
+ echo $year3
+}
+```
+
+Після створення функції її було викликано командою:
+```bash
+students_report
+``
+<img width="842" height="605" alt="image" src="https://github.com/user-attachments/assets/af6741b3-8e01-4b72-9c3d-129448949aaa" />
+
+Результат виконання:
+
+```bash
+Студенти команди:
+Yaroslava
+Dasha
+Melissa
+Роки народження:
+2008
+2006
+2001
+```
+<img width="481" height="222" alt="image" src="https://github.com/user-attachments/assets/bad04a9a-bdc1-4f8f-9491-feb76257d485" />
