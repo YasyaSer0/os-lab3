@@ -476,3 +476,11 @@ PS1="MyPrompt> "
 Відмінність:
 whereis шукає конкретні системні файли,
 а locate працює через базу даних і може знайти майже будь-який файл.
+
+### Conclusion
+
+During this laboratory work, I improved my practical skills in working with the Linux terminal. I learned how to create and use variables, work with aliases, create functions, and apply control statements without writing separate scripts.
+
+I also practiced using proper quoting in the command line to correctly display variables and text output.
+
+As a result of this lab, I gained a better understanding of how the Linux command-line interface works, how environment variables function, and how commands can be automated. These skills are essential for further study of operating systems and Linux system administration.
