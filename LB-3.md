@@ -200,7 +200,7 @@ var_name3="Melissa"
 
 <img width="635" height="233" alt="image" src="https://github.com/user-attachments/assets/96ed5122-d640-4c78-8a08-b51f8eca1d61" />
 
-**Пояснення:**
+Пояснення:
 - Змінна в Linux створюється без пробілів між ім’ям, знаком = та значенням.
 - Значення змінної береться в подвійні лапки.
 - Для звернення до змінної використовується символ $ (наприклад: $var_name1).
@@ -216,7 +216,7 @@ echo $var_name3
 
 <img width="545" height="211" alt="image" src="https://github.com/user-attachments/assets/7d396aa1-4e08-455c-8f87-5e14e3def781" />
 
-**Пояснення:**
+Пояснення:
 - Команда echo використовується для виведення тексту або значення змінної на екран.
 - Символ $ перед ім’ям змінної дозволяє отримати її значення.
 - У результаті були виведені імена студентів команди, які зберігались у змінних.
@@ -244,6 +244,10 @@ alias mycal3='cal 2001'
 При введенні в терміналі:
 ```bash
 mycal1
+mycal2
+mycal3
 ```
 
  <img width="820" height="541" alt="image" src="https://github.com/user-attachments/assets/b87203bb-bbe6-499c-a5e2-130fc994fe56" />
+<img width="829" height="540" alt="image" src="https://github.com/user-attachments/assets/17bd3981-e964-4ec3-bbaf-444df31a4d64" />
+<img width="796" height="532" alt="image" src="https://github.com/user-attachments/assets/66bb46d5-48bd-4a36-8ce4-828cbadb3e04" />
