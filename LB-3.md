@@ -327,6 +327,9 @@ We create such variables as $var_name1, $var_name2, $var_name3, which stored our
 ```bash
 echo "We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars:"
 ```
+
+<img width="884" height="120" alt="image" src="https://github.com/user-attachments/assets/f80cd0df-6a44-4a5f-9ae3-c233bf0b9ba2" />
+
 Після цього виконано команди:
 ```bash
 mycal1
@@ -345,3 +348,8 @@ mycal3
 We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars:
 ```
 Після цього відображаються календарі 2008, 2006 та 2001 років:
+<img width="860" height="453" alt="image" src="https://github.com/user-attachments/assets/0b9784a0-9070-4667-9402-8da7bbeb0c61" />
+<img width="795" height="487" alt="image" src="https://github.com/user-attachments/assets/9041750a-7225-4f5b-a0b0-c90406d90121" />
+<img width="857" height="506" alt="image" src="https://github.com/user-attachments/assets/1e4b893a-4665-4c05-bc45-4fddd9a1d8b3" />
+
+
